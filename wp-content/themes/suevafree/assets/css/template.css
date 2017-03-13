@@ -339,15 +339,17 @@ body.hide_footer #wrapper {
    LOGO
    =============================================== */
 
-#logo a.logo { 
-	font-family:'Allura',Verdana, Geneva, sans-serif; 
-	font-size:70px; 
+#logo a.logo {
+	font-style: italic;
+	font-family: Arial, sans-serif,Verdana, Geneva, sans-serif;
+	font-size: 45px;
 }
 
 #logo a.logo span {
+	font-style: normal;
 	font-family:'Raleway',Verdana, Geneva, sans-serif; 
 	font-size:14px;
-	display:block; 
+	display:block;
 }
 
 /* ===============================================
