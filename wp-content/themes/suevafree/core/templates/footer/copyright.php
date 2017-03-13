@@ -24,7 +24,7 @@ if (!function_exists('suevafree_copyright_function')) {
 
 		else:
 		
-			echo '<p>Copyright ' . get_bloginfo("name") . ' ' . date_i18n("Y") . ' - Theme by <a href="'.esc_url('https://www.themeinprogress.com/').'" target="_blank">Theme in Progress</a></p>';
+			echo '<p>Copyright ' . get_bloginfo("name") . ' ' . date_i18n("Y") . ' ALL RIGHTS RESERVED.</p>';
 			
 		endif;
 		
