@@ -23,4 +23,4 @@
 
 <body <?php body_class(); ?>>
 
-<?php do_action( 'suevafree_' . suevafree_setting( 'suevafree_header_layout', 'header_layout_1'), 'main-menu' ); ?>
+<?php do_action( 'suevafree_' . suevafree_setting( 'suevafree_header_layout', 'header_layout_2'), 'main-menu' ); ?>
