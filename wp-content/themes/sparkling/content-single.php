@@ -5,7 +5,7 @@
 ?>
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-	<?php the_post_thumbnail( 'sparkling-featured', array( 'class' => 'single-featured' )); ?>
+	<?php // the_post_thumbnail( 'sparkling-featured', array( 'class' => 'single-featured' )); ?>
 	<div class="post-inner-content">
 		<header class="entry-header page-header">
 
