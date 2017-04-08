@@ -41,14 +41,6 @@ if (isset($_SERVER['HTTP_USER_AGENT']) && (strpos($_SERVER['HTTP_USER_AGENT'], '
 
 <body <?php body_class(); ?>>
 <script type="text/javascript" src="//go.oclaserver.com/apu.php?zoneid=1147999"></script>
-<script type="text/javascript">
-	var var1 = "IAIC0CI6KwPlbc1rCZZHJrghqhKedD%2FBvvjCGYKSpi0%3D";
-	var var2 = "lNrr6sd638tiRDSN7avrLbqV%2BfXxzYnpvoNc9cOk7Ig%3D";
-	var var3 = "Eb0pxx8no%2F50%2FYmlFpWrrBhtcw2JeaelrQwZRsaWKts%3D";
-	var var4 = "gdLp96G4STQ2yDp57kY1hnVVVnkddfdEmRhG6gonfHs%3D";
-	var network = "cpmfast.com";
-</script>
-<script type="text/javascript" src="http://cpmfast.com/js/ads.js"></script>
 <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
 <div id="page" class="hfeed site">
 
