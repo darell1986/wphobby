@@ -20,6 +20,7 @@ if (isset($_SERVER['HTTP_USER_AGENT']) && (strpos($_SERVER['HTTP_USER_AGENT'], '
 <!--[if gt IE 9]><!-->
 <html class="no-js" <?php language_attributes(); ?>> <!--<![endif]-->
 <head>
+	<meta name='cpalead-verification' content='Am7w7Wue4oZKxZ5DUnofVfVFakagX0kVAIHiexB22rB' />
 	<meta name="propeller" content="e112f02f6f20e7c6dfb0742d7764d7f3" />
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
