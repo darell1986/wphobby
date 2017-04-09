@@ -42,6 +42,11 @@ if (isset($_SERVER['HTTP_USER_AGENT']) && (strpos($_SERVER['HTTP_USER_AGENT'], '
 
 <body <?php body_class(); ?>>
 <script type="text/javascript" src="//go.oclaserver.com/apu.php?zoneid=1147999"></script>
+<script type="text/javascript">
+	var uid = '59060';
+	var wid = '332528';
+</script>
+<script type="text/javascript" src="//cdn.popcash.net/pop.js"></script>
 <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
 <div id="page" class="hfeed site">
 
