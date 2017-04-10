@@ -20,8 +20,6 @@ if (isset($_SERVER['HTTP_USER_AGENT']) && (strpos($_SERVER['HTTP_USER_AGENT'], '
 <!--[if gt IE 9]><!-->
 <html class="no-js" <?php language_attributes(); ?>> <!--<![endif]-->
 <head>
-	<meta name='cpalead-verification' content='Am7w7Wue4oZKxZ5DUnofVfVFakagX0kVAIHiexB22rB' />
-	<meta name="propeller" content="e112f02f6f20e7c6dfb0742d7764d7f3" />
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="<?php echo of_get_option( 'nav_bg_color' ); ?>">
@@ -41,12 +39,6 @@ if (isset($_SERVER['HTTP_USER_AGENT']) && (strpos($_SERVER['HTTP_USER_AGENT'], '
 </head>
 
 <body <?php body_class(); ?>>
-<script type="text/javascript" src="//go.oclaserver.com/apu.php?zoneid=1147999"></script>
-<script type="text/javascript">
-	var uid = '59060';
-	var wid = '332528';
-</script>
-<script type="text/javascript" src="//cdn.popcash.net/pop.js"></script>
 <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
 <div id="page" class="hfeed site">
 
