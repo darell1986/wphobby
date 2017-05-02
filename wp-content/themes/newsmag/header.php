@@ -71,10 +71,15 @@ endif;
 				?>
 				<?php if ( $newsmag_show_banner ): ?>
                     <div class="col-md-8 header-banner">
-						<?php
-						$banner = get_theme_mod( 'newsmag_banner_type', 'image' );
-						get_template_part( 'template-parts/banner/banner', $banner );
-						?>
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- Leaderboard -->
+						<ins class="adsbygoogle"
+							 style="display:inline-block;width:728px;height:90px"
+							 data-ad-client="ca-pub-2524788439684617"
+							 data-ad-slot="3903970282"></ins>
+						<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
                     </div>
 				<?php endif; ?>
             </div>
