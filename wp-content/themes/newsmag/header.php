@@ -50,13 +50,13 @@ endif;
 	?>
     <header id="masthead" class="site-header" role="banner">
         <div class="site-branding container <?php echo $center_class ? 'centered-branding' : '' ?>">
-            <div class="row"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-				<!-- WPHobby_Links -->
+            <div class="row">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- WPHobby_Top_Links -->
 				<ins class="adsbygoogle"
-					 style="display:block"
+					 style="display:inline-block;width:728px;height:15px"
 					 data-ad-client="ca-pub-2524788439684617"
-					 data-ad-slot="3180456681"
-					 data-ad-format="link"></ins>
+					 data-ad-slot="8668587088"></ins>
 				<script>
 					(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
