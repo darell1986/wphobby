@@ -62,6 +62,18 @@ endif;
 				</script>
 			</div>
 			<div class="row">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- WPHobby_Links -->
+				<ins class="adsbygoogle"
+					 style="display:block"
+					 data-ad-client="ca-pub-2524788439684617"
+					 data-ad-slot="3180456681"
+					 data-ad-format="link"></ins>
+				<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div>
+			<div class="row">
                 <div class="col-md-4 header-logo">
 					<?php
 					$header_textcolor = get_theme_mod( 'header_textcolor' );
