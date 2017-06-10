@@ -52,11 +52,11 @@ endif;
         <div class="site-branding container <?php echo $center_class ? 'centered-branding' : '' ?>">
 			<div class="row">
 				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-				<!-- WPHobby_Links -->
+				<!-- WP_Hobby_Links -->
 				<ins class="adsbygoogle"
 					 style="display:block"
-					 data-ad-client="ca-pub-2524788439684617"
-					 data-ad-slot="3180456681"
+					 data-ad-client="ca-pub-6551252052867050"
+					 data-ad-slot="9260366728"
 					 data-ad-format="link"></ins>
 				<script>
 					(adsbygoogle = window.adsbygoogle || []).push({});
