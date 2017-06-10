@@ -93,11 +93,11 @@ endif;
 				<?php if ( $newsmag_show_banner ): ?>
                     <div class="col-md-8 header-banner">
 						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-						<!-- Leaderboard -->
+						<!-- WP_Hobby_Leaderboard -->
 						<ins class="adsbygoogle"
 							 style="display:inline-block;width:728px;height:90px"
-							 data-ad-client="ca-pub-2524788439684617"
-							 data-ad-slot="3903970282"></ins>
+							 data-ad-client="ca-pub-6551252052867050"
+							 data-ad-slot="3213833129"></ins>
 						<script>
 							(adsbygoogle = window.adsbygoogle || []).push({});
 						</script>
